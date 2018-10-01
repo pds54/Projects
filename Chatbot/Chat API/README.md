@@ -1,0 +1,1 @@
+Allows connection between windows.
